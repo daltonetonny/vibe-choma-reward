@@ -1,7 +1,10 @@
 **VibeLoyalty - Kenyan Eatery Loyalty Rewards Platform**
+
 Project Overview
+
 VibeLoyalty is an ultra-modern, fully functional web platform designed for Kenyan eateries (nyama choma joints, kibandas, Swahili cafes) to reward loyal customers with real-time points and monetary balances. Built for the Vibe Coding Hackathon 2025, it features a vibrant, indirectly girlish aesthetic (soft pinks, corals, lavenders blended with Kenyan flag colors), Kenyan cultural elements (Swahili slang, Maasai patterns, nyama choma imagery), UrbanTone background music (e.g., “Kifo Cha Mende”), relevant imagery, a playful logo, 12 engaging pages, a world-class live demo, and an investor-ready pitch deck. The app leverages Supabase, TailwindCSS, GSAP, Lottie, and Chart.js to deliver real-time analytics, gamification, and a joyful user experience, deployable to Netlify/GitHub Pages.
 Project URL: https://lovable.dev/projects/6718f9fa-2f5b-4fd7-a408-26fa6130094a
+
 _Key Features_
 
 Real-Time Points & Balance: Customers earn 10 Choma Points/visit and KSh 100 equivalent, updated live with confetti and sound at 5 visits (free meal).
